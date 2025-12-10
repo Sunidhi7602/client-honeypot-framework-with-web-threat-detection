@@ -1,0 +1,38 @@
+.dashboard-layout {
+    display: flex;
+}
+
+.main-content {
+    margin-left: 240px;
+    padding: 30px;
+    width: calc(100% - 240px);
+    background: #f4f7fb;
+    min-height: 100vh;
+}
+
+.scan-input {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.scan-input input {
+    width: 300px;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.scan-input button {
+    padding: 10px 20px;
+    background: #1f6feb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.scan-input button:hover {
+    background: #1158c7;
+}

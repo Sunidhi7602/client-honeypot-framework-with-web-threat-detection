@@ -1,0 +1,31 @@
+.threat-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+.threat-table th {
+    background: #e8eef3;
+    padding: 15px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.threat-table td {
+    padding: 12px;
+    font-size: 15px;
+    color: #333;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.threat-table tr:last-child td {
+    border-bottom: none;
+}
+
+.threat-table tr:hover {
+    background: #f7faff;
+}

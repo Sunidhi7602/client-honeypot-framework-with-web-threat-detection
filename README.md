@@ -2,9 +2,6 @@
 
 A modern web-based honeypot framework designed to detect and analyze client-side threats, malicious activities, and web vulnerabilities in real-time.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-blue)](https://nodejs.org/)
-
 ## 🚀 Features
 
 - **Real-time Threat Detection**: Monitors client-side activities for suspicious behavior

@@ -6,7 +6,6 @@ A modern web-based honeypot framework designed to detect and analyze client-side
 
 - **Real-time Threat Detection**: Monitors client-side activities for suspicious behavior
 - **Interactive Dashboard**: Visual analytics and threat intelligence dashboard
-- **Multi-Vector Analysis**: Detects XSS, CSRF, clickjacking, and other web threats
 - **Honeypot Traps**: Deceptive elements to attract and identify malicious bots/users
 - **Reporting & Alerts**: Automated reporting system with configurable notifications
 - **API Integration**: RESTful API for threat data access and management
